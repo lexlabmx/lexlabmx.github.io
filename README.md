@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/dec0dOS/amazing-github-template">
+  <a href="https://github.com/lexlabmx">
     <img src="header.png" alt="Logo" width="125" height="125">
   </a>
 </h1>
@@ -7,6 +7,7 @@
 <div align="center">
   
   ## ¡Bienvenido a lexlabmx.github.io! 
+  
   ###### La biblioteca de documentos jurídicos más completa de México ⚖️
   
   <br/>
@@ -43,9 +44,9 @@ Siempre estamos buscando colaboradores, envía tu currículum a [nuestro correo]
 </div>
 <br>
 
-## 📚 Librería
+## 📚 Leyes Federales Vigentes
 
-<b>Nuestra librería en orden alfabético (A-Z):</b>
+<b>Leyes Federales en orden alfabético (A-Z):</b>
 
 - ➡️  <a href="LEYES/Constitución Política de los Estados Unidos Mexicanos.pdf">Constitución Política de los Estados Unidos Mexicanos</a>
 - ➡️  <a href="LEYES/Código Civil Federal.pdf">Código Civil Federal</a>

@@ -1,23 +1,20 @@
-<h1 align="center">
-  <a href="https://github.com/lexlabmx">
-    <img src="header.png" alt="Logo" width="125" height="125">
-  </a>
-</h1>
+<p align="center"><a href="https://github.com/lexlabmx"><img src="header.png" alt="Logo" width="125" height="125"></a></p>
 
 <div align="center">
-  
-  ## ¡Bienvenido a lexlabmx.github.io! 
-  
-  ###### La biblioteca de documentos jurídicos más completa de México ⚖️
-  
-  <br/>
-  <a href="https://github.com/dec0dOS/amazing-github-template/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Reportes</a>
-  ·
-  <a href="https://github.com/dec0dOS/amazing-github-template/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">Solicitudes</a>
-  .
-  <a href="https://github.com/dec0dOS/amazing-github-template/discussions">Preguntas</a>
 
-  [![Actualización](https://img.shields.io/badge/Última%20Actualización-6--Jun-lightgreen.svg?style=for-the-badge)](https://github.com/LexLabMx)
+## ¡Bienvenido a lexlabmx.github.io!
+  
+###### La biblioteca de documentos jurídicos más completa de México&nbsp;⚖️
+  
+<br/>
+  
+<a href="https://github.com/dec0dOS/amazing-github-template/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Reportes</a>
+·
+<a href="https://github.com/dec0dOS/amazing-github-template/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">Solicitudes</a>
+·
+<a href="https://github.com/dec0dOS/amazing-github-template/discussions">Preguntas</a>
+
+[![Actualización](https://img.shields.io/badge/Última%20Actualización-6--Jun-lightgreen.svg?style=for-the-badge)](https://github.com/LexLabMx)
   
 </div>
 
@@ -42,11 +39,12 @@ Uno de nuestros valores principales es la **colaboración** y la **creación de 
 Siempre estamos buscando colaboradores, envía tu currículum a [nuestro correo](mailto:lexlabmx@hotmail.com) para formar parte de nuestro equipo.
 
 </div>
+
 <br>
 
 ## 📚 Leyes Federales Vigentes
 
-<b>Leyes Federales en orden alfabético (A-Z):</b>
+<b>Enlistadas en orden alfabético (A-Z):</b>
 
 - ➡️  <a href="LEYES/Constitución Política de los Estados Unidos Mexicanos.pdf">Constitución Política de los Estados Unidos Mexicanos</a>
 - ➡️  <a href="LEYES/Código Civil Federal.pdf">Código Civil Federal</a>

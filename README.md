@@ -41,18 +41,18 @@ Siempre estamos buscando colaboradores, envía tu currículum a [nuestro correo]
 </div>
 
 <br>
+<hr>
+<br>
 
 
-<https://lexlab.github.io>
+<center><h1><a href="https://lexlabmx.github.com">🛜 Enlace a la librería 🛜</a>
+
+<br>
+<br>
+<hr>
+<br>
 
 
-## Licencia
-
-Este proyecto está bajo la licencia: **MIT license**. Siéntete libre de editar y distribuir este repositorio como gustes.
-
-Visita la [licencia](LICENSE) para más información.
-
-<br/>
 
 <center>
 

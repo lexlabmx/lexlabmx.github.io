@@ -45,7 +45,7 @@ Siempre estamos buscando colaboradores, envía tu currículum a [nuestro correo]
 <br>
 
 
-<center><h1><a href="https://lexlabmx.github.com">🛜 Enlace a la librería 🛜</a>
+<center><h1><a href="https://lexlabmx.github.io">🛜 Enlace a la librería 🛜</a>
 
 <br>
 <br>

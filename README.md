@@ -49,13 +49,11 @@ Siempre estamos buscando colaboradores, envía tu currículum a [nuestro correo]
 
 <br>
 <br>
+  
 <hr>
-<br>
 
 
 
 <center>
 
-[![Con amor de LexLabMx](https://img.shields.io/badge/Con%20%E2%99%A5%20de%20-LexLabMx-black.svg?style=for-the-badge)](https://github.com/LexLabMx)
-
-[![license](https://img.shields.io/github/license/dec0dOS/amazing-github-template.svg?style=for-the-badge)](LICENSE)
+[![Con amor de LexLabMx](https://img.shields.io/badge/Con%20%E2%99%A5%20de%20-LexLabMx-black.svg?style=for-the-badge)](https://github.com/LexLabMx) [![license](https://img.shields.io/github/license/dec0dOS/amazing-github-template.svg?style=for-the-badge)](LICENSE)
